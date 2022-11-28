@@ -1,3 +1,7 @@
 {
-  "token": "DUMMY_TOKEN_nnify04nce7932n389X3343ffp32re3dsjy998KKusd"
+  "user": {
+     "id": 1,
+     "firstName": "Anthony",
+    "lastName": "Sistilli"
+  }
 }
